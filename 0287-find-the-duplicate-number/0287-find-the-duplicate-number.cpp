@@ -17,7 +17,7 @@ public:
         while(i<n)
         {
             int correctidx=nums[i];
-            if(nums[correctidx]==nums[i]) return correctidx;
+            if(nums[correctidx]==nums[i]) return nums[i];
             else
             {
                 swap(nums[correctidx], nums[i]);
