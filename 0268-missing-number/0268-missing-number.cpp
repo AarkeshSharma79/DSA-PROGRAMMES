@@ -11,17 +11,34 @@ public:
         // return(actualSum-sum);
 
         // method 2;
-        int n=nums.size();
-        vector<bool> check(n+1,false);
-        for(int i=0;i<n;i++)
-        {
-            int ele=nums[i];
-            check[ele]=true;
-        }
-        for(int i=0;i<=n;i++)
-        {
-            if(check[i]==false) return i;
-        }
-        return 0;
+    //     int n=nums.size();
+    //     vector<bool> check(n+1,false);
+    //     for(int i=0;i<n;i++)
+    //     {
+    //         int ele=nums[i];
+    //         check[ele]=true;
+    //     }
+    //     for(int i=0;i<=n;i++)
+    //     {
+    //         if(check[i]==false) return i;
+    //     }
+    //     return 0;
+    //  method 3
+    int n=nums.size();
+    int i=0;
+    while(i<n)
+    {
+        int correctidx=nums[i];
+        if(correctidx==i||nums[i]==n) i++;
+        else swap(nums[correctidx],nums[i]);
     }
+    for(int i=0;i<n;i++)
+    {
+        if(nums[i]!=i) return i;
+    }
+    return n;
+
+
+     }
+
 };
