@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0238-product-of-array-except-self) |
@@ -18,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
