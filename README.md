@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0191-number-of-1-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
