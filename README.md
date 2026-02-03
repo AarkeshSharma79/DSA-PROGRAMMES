@@ -40,6 +40,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
