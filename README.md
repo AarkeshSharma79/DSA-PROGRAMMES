@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
@@ -45,11 +46,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0917-reverse-only-letters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0917-reverse-only-letters) |
 ## Prefix Sum
