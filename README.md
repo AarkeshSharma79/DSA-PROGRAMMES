@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0507-perfect-number) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
@@ -91,6 +93,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
