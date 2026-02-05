@@ -31,6 +31,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0507-perfect-number) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
