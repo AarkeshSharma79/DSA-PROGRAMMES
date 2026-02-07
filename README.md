@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
@@ -105,10 +107,15 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
