@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0263-ugly-number) |
