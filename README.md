@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
@@ -89,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0917-reverse-only-letters) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
 ## Enumeration
