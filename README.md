@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
@@ -125,6 +126,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
@@ -176,4 +178,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
