@@ -182,4 +182,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
