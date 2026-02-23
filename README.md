@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0136-single-number) |
@@ -125,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
@@ -197,4 +199,8 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
