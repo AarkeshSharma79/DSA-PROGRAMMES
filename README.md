@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -98,6 +99,7 @@
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
@@ -204,6 +207,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0237-delete-node-in-a-linked-list) |
@@ -221,4 +225,5 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
