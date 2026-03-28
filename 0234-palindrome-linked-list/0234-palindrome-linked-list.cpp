@@ -1,6 +1,7 @@
 class Solution {
 public:
-    ListNode* reverse(ListNode* c)
+// reverse the copy list;
+    ListNode* reverse(ListNode* c)// Tc O(n)
     {
         ListNode *prev=NULL, *curr=c, *Next=c;
         while(curr!=NULL){
@@ -15,7 +16,9 @@ public:
       ListNode* c=new ListNode(0);
       ListNode* tempc=c;
       ListNode* temp=head;
-      while(temp!=NULL)
+
+      // formation of copy list of original list;
+      while(temp!=NULL) // tc O(n) and SC O(n)
       {
         ListNode* b=new ListNode(temp->val);
         tempc->next=b;
@@ -25,7 +28,8 @@ public:
       c=reverse(c->next);
       temp=head;
       tempc=c;
-      while(tempc){
+      // compare both original list and copy list value'
+      while(tempc){ // Tc O(n)
         if(tempc->val!=temp->val) return false;
         temp=temp->next;
         tempc=tempc->next;
