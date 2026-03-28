@@ -1,7 +1,6 @@
 class Solution {
 public:
-// reverse the copy list;
-    ListNode* reverse(ListNode* c)// Tc O(n)
+     ListNode* reverse(ListNode* c)// Tc O(n)
     {
         ListNode *prev=NULL, *curr=c, *Next=c;
         while(curr!=NULL){
@@ -13,28 +12,23 @@ public:
         return prev;
     }
     bool isPalindrome(ListNode* head) {
-      ListNode* c=new ListNode(0);
-      ListNode* tempc=c;
-      ListNode* temp=head;
+        // if the first and second half of list is the reverse of each other then it is the palindrome linked list
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next!=NULL && fast->next->next!=NULL ) // left middle for even length;
+        {
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode* newHead=reverse(slow->next);
+        ListNode* b=newHead;
+        ListNode* a=head;
+        while(b!=NULL){
+            if(a->val!=b->val) return false;
 
-      // formation of copy list of original list;
-      while(temp!=NULL) // tc O(n) and SC O(n)
-      {
-        ListNode* b=new ListNode(temp->val);
-        tempc->next=b;
-        tempc=b;
-        temp=temp->next;
-      }
-      c=reverse(c->next);
-      temp=head;
-      tempc=c;
-      // compare both original list and copy list value'
-      while(tempc){ // Tc O(n)
-        if(tempc->val!=temp->val) return false;
-        temp=temp->next;
-        tempc=tempc->next;
-      }
-      return true;
-
+            a=a->next;
+            b=b->next;
+        }
+        return true;
     }
 };
