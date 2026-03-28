@@ -106,6 +106,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0917-reverse-only-letters) |
@@ -149,6 +150,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 ## Matrix
@@ -181,6 +183,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 | [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
