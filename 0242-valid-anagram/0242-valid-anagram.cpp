@@ -1,17 +1,18 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-       vector<int>counting(256,0);
-       for(int i=0;i<s.size();i++){
-        counting[s[i]]++;
-       } 
-       for(int i=0;i<t.size();i++){
-        counting[t[i]]--;
-       }
-       for(int i=0;i<256;i++)
-       {
-        if(counting[i]!=0) return false;
-       }
-       return true;
+      unordered_map<char,int> m;
+      for(int i=0;i<s.size();i++){
+        m[s[i]]++;
+      }  
+      for( int i=0;i<t.size();i++)
+      {
+        m[t[i]]--;
+      }
+      for(auto i: m){
+        if(i.second!=0)
+        return false;
+      }
+      return true;
     }
 };
