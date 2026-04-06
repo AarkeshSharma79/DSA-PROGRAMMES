@@ -56,6 +56,7 @@
 | [0258-add-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
@@ -248,4 +249,12 @@
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
