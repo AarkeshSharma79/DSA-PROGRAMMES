@@ -24,6 +24,7 @@ public:
         a=head;
         b=head->next;
         c=head->next->next;
+        idx=1;
         fidx=-1;
         sidx=-1;
         int mind=INT_MAX;
@@ -32,8 +33,10 @@ public:
             {
                 fidx=sidx;
                 sidx=idx;
-                int d=sidx-fidx;
+                if(fidx!=-1){
+                    int d=sidx-fidx;
                 mind=min(mind,d);
+              }   
             }
             a=a->next;
             b=b->next;
