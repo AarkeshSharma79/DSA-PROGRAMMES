@@ -7,6 +7,7 @@ public:
         ListNode* a=head;
         ListNode* b=head->next;
         ListNode* c=head->next->next;
+        if(c==NULL) return {-1,-1};
         while(c!=NULL){
             if((b->val>a->val && b->val>c->val)||(b->val<a->val && b->val<c->val))
             {
