@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0160-intersection-of-two-linked-lists) |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
