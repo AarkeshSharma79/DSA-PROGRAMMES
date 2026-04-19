@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0724-find-pivot-index) |
+| [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1480-running-sum-of-1d-array) |
@@ -199,6 +200,7 @@
 | [0043-multiply-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
+| [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -215,6 +217,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
+| [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
