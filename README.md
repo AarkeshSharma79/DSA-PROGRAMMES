@@ -63,6 +63,7 @@
 | [0002-add-two-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
