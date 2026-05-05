@@ -2,7 +2,7 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
     
-        if(head==NULL|| head->next==NULL) return head;
+    if(head==NULL|| head->next==NULL) return head;
        // find the length of list
        ListNode* temp=head;
        ListNode* tail=NULL; 
