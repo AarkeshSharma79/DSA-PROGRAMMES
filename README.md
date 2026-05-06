@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
@@ -94,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
