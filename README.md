@@ -36,6 +36,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
@@ -231,6 +232,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
 ## Enumeration
 |  |
