@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0141-linked-list-cycle) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
@@ -165,6 +167,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0043-multiply-strings) |
