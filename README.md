@@ -39,6 +39,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
+| [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -60,6 +61,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
@@ -132,6 +134,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
