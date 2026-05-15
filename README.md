@@ -35,6 +35,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
@@ -92,6 +93,7 @@
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
