@@ -75,6 +75,7 @@
 | [0043-multiply-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
