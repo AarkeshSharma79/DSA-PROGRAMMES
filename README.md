@@ -34,6 +34,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
