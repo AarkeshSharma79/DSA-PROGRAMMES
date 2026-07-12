@@ -37,6 +37,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -276,6 +277,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1544-make-the-string-great) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -369,4 +371,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
