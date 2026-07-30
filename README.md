@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -167,6 +168,7 @@
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
