@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
