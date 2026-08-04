@@ -299,6 +299,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -309,6 +310,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0547-number-of-provinces) |
@@ -320,6 +322,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
@@ -420,4 +423,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
