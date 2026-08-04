@@ -195,6 +195,7 @@
 | [0043-multiply-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0412-fizz-buzz) |
@@ -298,6 +299,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -307,6 +309,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -317,6 +320,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
@@ -412,4 +416,8 @@
 | [0232-implement-queue-using-stacks](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
