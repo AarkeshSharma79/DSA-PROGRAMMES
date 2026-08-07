@@ -302,6 +302,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
@@ -313,6 +314,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
@@ -326,6 +328,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
@@ -394,6 +397,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0547-number-of-provinces) |
 ## Graph Theory
