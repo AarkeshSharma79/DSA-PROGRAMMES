@@ -216,6 +216,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3340-check-balanced-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3340-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |
