@@ -322,6 +322,7 @@
 | [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -359,6 +360,7 @@
 | [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -470,4 +472,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
