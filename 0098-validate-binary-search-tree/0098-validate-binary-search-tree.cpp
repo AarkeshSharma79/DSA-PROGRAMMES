@@ -1,27 +1,19 @@
 class Solution {
 public:
-    long long maxleft(TreeNode* root){
-        if(root==NULL) return LLONG_MIN;
-        long long left=maxleft(root->left);
-        long long right=maxleft(root->right);
-        return max((long long)(root->val),max(left,right));
-    }
-    long long minright(TreeNode* root){
-        if(root==NULL) return LLONG_MAX;
-        long long left=minright(root->left);
-        long long right=minright(root->right);
-        return min((long long)(root->val),min(left,right));
+    void inorderTraversal(TreeNode* root,vector<int>& ans){
+        if(root==NULL) return;
+        inorderTraversal(root->left,ans);
+        ans.push_back(root->val);
+        inorderTraversal(root->right,ans);
     }
     bool isValidBST(TreeNode* root) {
-        if(root==NULL) return true;
-        else if(root->left==NULL && root->right==NULL) return true;
-        long long val1=maxleft(root->left);
-        long long val2=minright(root->right);
-        if(root->val>val1 && root->val<val2){
-             return isValidBST(root->left) &&
-                   isValidBST(root->right);
+        vector<int>ans;
+        inorderTraversal(root,ans);
+        for (int i = 1; i < ans.size(); i++) {
+        if (ans[i] <= ans[i - 1]) {
+            return false;
         }
-        else return false;
-        
+    }
+    return true;
     }
 };
