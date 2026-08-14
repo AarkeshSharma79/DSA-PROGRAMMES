@@ -71,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -205,6 +206,7 @@
 | [0242-valid-anagram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
@@ -420,6 +422,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
