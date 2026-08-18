@@ -10,16 +10,24 @@ public:
         return r;
     }
     int countDistinctIntegers(vector<int>& nums) {
+        // Method 1 S.C increase;
+    //     int n=nums.size();
+    //     for(int i=0;i<n;i++){
+    //         int rev=reverse(nums[i]);
+    //         nums.push_back(rev);
+    //     }
+    //     unordered_set<int>s;
+    //     for(int i=0;i<nums.size();i++){
+    //         s.insert(nums[i]);
+    //     }
+    //     return s.size();
         int n=nums.size();
+            unordered_set<int>s;
         for(int i=0;i<n;i++){
             int rev=reverse(nums[i]);
-            nums.push_back(rev);
-        }
-        unordered_set<int>s;
-        for(int i=0;i<nums.size();i++){
             s.insert(nums[i]);
+            s.insert(rev);
         }
         return s.size();
-
     }
 };
