@@ -28,6 +28,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
@@ -335,6 +337,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -504,6 +507,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
