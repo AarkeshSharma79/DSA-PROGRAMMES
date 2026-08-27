@@ -9,7 +9,7 @@ public:
                 if(nums1[i]==nums2[j]){
                    int k = j + 1;
 
-                while (k < m && nums2[k] <= nums2[j]) {
+                while (k < m && nums2[k] <nums2[j]) {
                     k++;
                 }
 
@@ -19,8 +19,8 @@ public:
                     ans.push_back(-1);
 
                 break;
+                }
             }
-        }
         }
         return ans;
     }
