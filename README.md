@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -267,6 +268,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
+| [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
