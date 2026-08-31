@@ -98,6 +98,7 @@
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -190,6 +191,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
@@ -258,6 +260,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1446-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1544-make-the-string-great) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -474,6 +477,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
