@@ -36,6 +36,7 @@
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
@@ -93,6 +94,7 @@
 | [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
@@ -246,6 +248,7 @@
 | [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
