@@ -338,6 +338,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
