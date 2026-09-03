@@ -59,6 +59,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2239-find-closest-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -104,6 +105,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
+| [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -485,6 +487,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
