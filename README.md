@@ -23,6 +23,7 @@
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@
 | [0169-majority-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +292,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
