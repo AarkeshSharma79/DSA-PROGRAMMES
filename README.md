@@ -24,6 +24,7 @@
 | [0204-count-primes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
@@ -200,6 +202,7 @@
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
@@ -499,6 +502,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -594,4 +598,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
