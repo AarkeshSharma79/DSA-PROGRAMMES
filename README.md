@@ -60,6 +60,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2239-find-closest-number-to-zero) |
@@ -117,6 +118,7 @@
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -518,6 +520,7 @@
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
