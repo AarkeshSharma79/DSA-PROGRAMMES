@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
@@ -208,6 +209,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
@@ -230,6 +232,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0061-rotate-list) |
