@@ -143,6 +143,7 @@
 | [0013-roman-to-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0172-factorial-trailing-zeroes) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
@@ -635,4 +637,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
