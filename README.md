@@ -308,6 +308,7 @@
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -377,6 +378,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3498-reverse-degree-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
 ## Enumeration
 |  |
