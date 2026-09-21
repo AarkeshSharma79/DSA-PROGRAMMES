@@ -74,6 +74,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
+| [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -229,6 +230,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -512,6 +514,7 @@
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0409-longest-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
