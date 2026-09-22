@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
@@ -114,6 +115,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0771-jewels-and-stones) |
