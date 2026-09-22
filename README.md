@@ -167,6 +167,7 @@
 | [0412-fizz-buzz](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
