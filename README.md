@@ -47,6 +47,7 @@
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
+| [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -120,6 +121,7 @@
 | [0692-top-k-frequent-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
+| [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
@@ -302,6 +304,7 @@
 | [0796-rotate-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1446-consecutive-characters) |
