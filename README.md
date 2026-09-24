@@ -85,6 +85,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -190,6 +191,7 @@
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
