@@ -126,6 +126,7 @@
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
+| [1496-path-crossing](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1496-path-crossing) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
@@ -317,6 +318,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1446-consecutive-characters) |
+| [1496-path-crossing](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1496-path-crossing) |
 | [1544-make-the-string-great](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1832-check-if-the-sentence-is-pangram) |
