@@ -254,6 +254,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -296,6 +297,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -348,6 +350,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
@@ -684,4 +687,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0347-top-k-frequent-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
