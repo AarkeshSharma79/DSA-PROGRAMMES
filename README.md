@@ -52,6 +52,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -559,6 +560,7 @@
 | [0658-find-k-closest-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
