@@ -357,6 +357,7 @@
 | [0771-jewels-and-stones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
+| [0856-score-of-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
@@ -481,6 +482,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -757,6 +759,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0856-score-of-parentheses) |
 ## Data Stream
 |  |
 | ------- |
