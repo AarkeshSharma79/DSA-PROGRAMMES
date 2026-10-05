@@ -68,6 +68,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1816-truncate-sentence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1920-build-array-from-permutation) |
@@ -366,6 +367,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
