@@ -111,6 +111,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3925-concatenate-array-with-reverse) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -475,6 +478,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3925-concatenate-array-with-reverse) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -624,6 +628,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -648,6 +653,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Brainteaser
 |  |
 | ------- |
@@ -784,4 +790,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
