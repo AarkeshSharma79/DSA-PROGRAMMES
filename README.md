@@ -89,6 +89,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
@@ -160,6 +161,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
@@ -219,6 +221,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -466,6 +469,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3498-reverse-degree-of-a-string) |
