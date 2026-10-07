@@ -215,6 +215,7 @@
 | [0836-rectangle-overlap](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
@@ -421,6 +422,7 @@
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
+| [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
@@ -665,10 +667,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -806,4 +810,8 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
