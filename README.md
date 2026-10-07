@@ -261,6 +261,7 @@
 | [0231-power-of-two](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0389-find-the-difference) |
@@ -419,6 +420,7 @@
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
