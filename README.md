@@ -800,6 +800,7 @@
 | [0020-valid-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 ## Data Stream
 |  |
 | ------- |
