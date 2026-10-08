@@ -223,6 +223,7 @@
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -397,6 +398,7 @@
 | [1816-truncate-sentence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -415,6 +417,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
