@@ -397,6 +397,7 @@
 | [1768-merge-strings-alternately](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
