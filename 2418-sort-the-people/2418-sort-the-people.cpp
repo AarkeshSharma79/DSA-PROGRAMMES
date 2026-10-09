@@ -2,20 +2,16 @@ class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
         int n = names.size();
-        vector<pair<int, string>> people(n);
+        priority_queue<pair<int, string>> pq;
         
         for (int i = 0; i < n; i++) {
-            people[i] = {heights[i], names[i]};
+            pq.push({heights[i], names[i]});
         }
-        
-        // Sort in descending order of height
-        sort(people.rbegin(), people.rend());
-        
-        vector<string> ans(n);
-        for (int i = 0; i < n; i++) {
-            ans[i] = people[i].second;
+        vector<string> ans;
+        while (!pq.empty()) {
+            ans.push_back(pq.top().second);
+            pq.pop();
         }
-        
         return ans;
     }
 };
