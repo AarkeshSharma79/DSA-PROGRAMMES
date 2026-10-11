@@ -102,6 +102,7 @@
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -526,6 +527,7 @@
 | [1291-sequential-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
