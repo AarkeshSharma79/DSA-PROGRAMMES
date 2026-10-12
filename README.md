@@ -116,6 +116,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -187,6 +188,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
+| [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -252,6 +254,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -707,6 +710,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Brainteaser
 |  |
