@@ -125,6 +125,7 @@
 | [3866-first-unique-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3925-concatenate-array-with-reverse) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
@@ -264,6 +265,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
