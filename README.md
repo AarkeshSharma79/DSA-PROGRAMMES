@@ -264,6 +264,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -680,6 +681,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
