@@ -259,6 +259,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
@@ -337,6 +338,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3536-maximum-product-of-two-digits) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
