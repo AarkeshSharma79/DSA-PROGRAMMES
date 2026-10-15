@@ -263,6 +263,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
@@ -544,6 +545,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3925-concatenate-array-with-reverse](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3959-check-good-integer) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
