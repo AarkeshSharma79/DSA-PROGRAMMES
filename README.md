@@ -261,6 +261,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
