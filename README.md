@@ -268,6 +268,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
@@ -310,6 +311,7 @@
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0868-binary-gap) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -458,6 +461,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3498-reverse-degree-of-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
