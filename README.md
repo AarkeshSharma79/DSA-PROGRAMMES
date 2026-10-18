@@ -241,6 +241,7 @@
 | [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
