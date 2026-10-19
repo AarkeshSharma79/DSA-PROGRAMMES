@@ -491,6 +491,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
