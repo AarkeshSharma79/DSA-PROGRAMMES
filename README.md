@@ -394,6 +394,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -465,6 +466,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
