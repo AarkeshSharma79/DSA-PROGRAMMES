@@ -1,0 +1,17 @@
+class Solution {
+public:
+ int fn(int num, vector<int>& dp) {
+        if (num == 0) return 0;
+
+        if (dp[num] != -1) return dp[num];
+
+        if (num % 2 == 0)
+            return dp[num] = 1 + fn(num / 2, dp);
+        else
+            return dp[num] = 1 +fn(num - 1, dp);
+    }
+    int numberOfSteps(int num) {
+        vector<int>dp(num+1,-1);
+        return fn(num,dp);
+    }
+};
