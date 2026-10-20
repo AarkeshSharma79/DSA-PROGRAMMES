@@ -214,6 +214,7 @@
 | [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0202-happy-number) |
@@ -488,6 +489,7 @@
 | [0022-generate-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0338-counting-bits) |
@@ -897,6 +899,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 ## Impartial Game
