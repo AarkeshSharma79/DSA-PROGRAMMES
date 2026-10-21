@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -495,6 +496,7 @@
 | [0022-generate-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0198-house-robber) |
@@ -538,6 +540,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0063-unique-paths-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
