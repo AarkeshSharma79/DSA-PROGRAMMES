@@ -255,6 +255,7 @@
 | [2413-smallest-even-multiple](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -412,6 +413,7 @@
 | [0724-find-pivot-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
