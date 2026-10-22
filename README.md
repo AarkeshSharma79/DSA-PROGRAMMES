@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -501,6 +502,7 @@
 | [0070-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0509-fibonacci-number) |
@@ -790,6 +792,7 @@
 | [0112-path-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -926,4 +929,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1952-three-divisors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
