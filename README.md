@@ -70,6 +70,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1480-running-sum-of-1d-array) |
@@ -174,6 +175,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-path-crossing](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1496-path-crossing) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
@@ -360,6 +362,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -943,4 +946,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0322-coin-change) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
