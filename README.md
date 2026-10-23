@@ -60,6 +60,7 @@
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
@@ -171,6 +172,7 @@
 | [0767-reorganize-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1331-rank-transform-of-an-array) |
@@ -950,4 +952,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
