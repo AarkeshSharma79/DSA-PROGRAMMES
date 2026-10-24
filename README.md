@@ -80,6 +80,7 @@
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -558,6 +559,7 @@
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0063-unique-paths-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
