@@ -258,6 +258,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -736,6 +737,7 @@
 | [0767-reorganize-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1323-maximum-69-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1323-maximum-69-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4000-largest-integer-with-given-digit-sum) |
