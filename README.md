@@ -269,6 +269,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2119-a-number-after-a-double-reversal) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -749,6 +750,7 @@
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1323-maximum-69-number) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4000-largest-integer-with-given-digit-sum) |
