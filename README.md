@@ -111,6 +111,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -199,6 +200,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -340,6 +342,7 @@
 | [0868-binary-gap](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
 |  |
