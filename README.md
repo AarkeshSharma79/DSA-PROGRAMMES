@@ -86,6 +86,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1816-truncate-sentence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1816-truncate-sentence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1920-build-array-from-permutation) |
@@ -265,6 +266,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -560,6 +562,7 @@
 | [0326-power-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
@@ -590,6 +593,7 @@
 | [0415-add-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0415-add-strings) |
 | [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -855,6 +859,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
