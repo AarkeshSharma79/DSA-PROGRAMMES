@@ -271,6 +271,7 @@
 | [1952-three-divisors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -603,6 +604,7 @@
 | [1929-concatenation-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
