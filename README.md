@@ -124,6 +124,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
@@ -289,6 +290,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
