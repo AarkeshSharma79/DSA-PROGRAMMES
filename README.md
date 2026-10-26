@@ -47,6 +47,7 @@
 | [0485-max-consecutive-ones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
@@ -371,6 +372,7 @@
 | [0389-find-the-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0658-find-k-closest-elements) |
@@ -753,6 +755,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0561-array-partition) |
 | [0767-reorganize-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -980,6 +983,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Pigeonhole Principle
 |  |
