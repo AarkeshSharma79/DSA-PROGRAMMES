@@ -101,6 +101,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2239-find-closest-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
@@ -197,6 +198,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
