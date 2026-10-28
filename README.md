@@ -313,6 +313,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3959-check-good-integer) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -553,6 +554,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
