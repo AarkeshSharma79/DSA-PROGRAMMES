@@ -59,6 +59,7 @@
 | [0724-find-pivot-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
+| [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -262,6 +263,7 @@
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
@@ -551,6 +553,7 @@
 | [0509-fibonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -832,6 +835,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
@@ -1005,4 +1009,12 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
