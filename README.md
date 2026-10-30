@@ -184,6 +184,7 @@
 | [0804-unique-morse-code-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -497,6 +498,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1446-consecutive-characters) |
 | [1496-path-crossing](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1496-path-crossing) |
 | [1544-make-the-string-great](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1544-make-the-string-great) |
@@ -809,6 +811,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
