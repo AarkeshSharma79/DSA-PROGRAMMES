@@ -299,6 +299,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -649,6 +650,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
