@@ -289,6 +289,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2485-find-the-pivot-integer) |
@@ -609,6 +610,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
@@ -649,6 +651,7 @@
 | [1952-three-divisors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2843-count-symmetric-integers) |
@@ -1027,4 +1030,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
