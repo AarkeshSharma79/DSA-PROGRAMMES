@@ -278,6 +278,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1512-number-of-good-pairs) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1837-sum-of-digits-in-base-k) |
