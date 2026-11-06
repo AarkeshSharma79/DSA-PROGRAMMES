@@ -91,6 +91,7 @@
 | [1816-truncate-sentence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1929-concatenation-of-array) |
@@ -408,6 +409,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1657-determine-if-two-strings-are-close) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
@@ -455,6 +457,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -797,6 +800,7 @@
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1323-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
