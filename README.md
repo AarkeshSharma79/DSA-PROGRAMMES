@@ -296,6 +296,7 @@
 | [2413-smallest-even-multiple](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -666,6 +667,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2843-count-symmetric-integers) |
