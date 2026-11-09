@@ -109,6 +109,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2239-find-closest-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -209,6 +210,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -297,6 +299,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2364-count-number-of-bad-pairs) |
 | [2413-smallest-even-multiple](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -854,6 +857,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2206-divide-array-into-equal-pairs) |
+| [2364-count-number-of-bad-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
