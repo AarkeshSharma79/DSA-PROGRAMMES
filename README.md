@@ -69,6 +69,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1331-rank-transform-of-an-array) |
@@ -412,6 +413,7 @@
 | [0881-boats-to-save-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1045,6 +1047,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Pigeonhole Principle
 |  |
@@ -1066,4 +1069,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2427-number-of-common-factors) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
