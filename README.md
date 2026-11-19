@@ -120,6 +120,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
@@ -432,6 +433,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -823,6 +825,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4000-largest-integer-with-given-digit-sum) |
