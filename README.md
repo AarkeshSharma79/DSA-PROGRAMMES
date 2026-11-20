@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
@@ -397,6 +398,7 @@
 | ------- |
 | [0018-4sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0169-majority-element) |
@@ -1085,4 +1087,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
