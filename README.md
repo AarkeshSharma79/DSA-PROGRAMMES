@@ -132,6 +132,7 @@
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -230,6 +231,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3046-split-the-array) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -324,6 +326,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -644,6 +647,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
