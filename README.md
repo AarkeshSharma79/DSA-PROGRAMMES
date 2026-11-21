@@ -142,6 +142,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -331,6 +332,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3536-maximum-product-of-two-digits) |
@@ -501,6 +503,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2485-find-the-pivot-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
