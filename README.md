@@ -41,6 +41,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -365,6 +366,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0658-find-k-closest-elements) |
@@ -415,6 +417,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -644,6 +647,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0063-unique-paths-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
@@ -847,6 +851,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0767-reorganize-string) |
