@@ -564,6 +564,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2390-removing-stars-from-a-string) |
