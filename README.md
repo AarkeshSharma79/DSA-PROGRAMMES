@@ -132,6 +132,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -231,6 +232,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -375,6 +377,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -496,6 +499,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
@@ -843,6 +847,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Heap (Priority Queue)
@@ -890,6 +895,7 @@
 | [2404-most-frequent-even-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2833-furthest-point-from-origin) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3046-split-the-array) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3085-minimum-deletions-to-make-string-k-special) |
