@@ -133,6 +133,7 @@
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -401,6 +402,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2206-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
