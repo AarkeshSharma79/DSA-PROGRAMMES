@@ -79,6 +79,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1395-count-number-of-teams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1480-running-sum-of-1d-array) |
@@ -621,6 +622,7 @@
 | [1025-divisor-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1395-count-number-of-teams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Divide and Conquer
@@ -1118,4 +1120,12 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
