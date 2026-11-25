@@ -288,6 +288,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0973-k-closest-points-to-origin) |
@@ -397,6 +398,7 @@
 | [0461-hamming-distance](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -1112,4 +1114,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0056-merge-intervals) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
