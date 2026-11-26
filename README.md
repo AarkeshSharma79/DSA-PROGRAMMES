@@ -124,6 +124,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2614-prime-in-diagonal) |
@@ -384,6 +385,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Bit Manipulation
 |  |
@@ -458,6 +460,7 @@
 | [2418-sort-the-people](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2784-check-if-array-is-good) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -509,6 +512,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3794-reverse-string-prefix) |
@@ -860,6 +864,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2706-buy-two-chocolates](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2706-buy-two-chocolates) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3085-minimum-deletions-to-make-string-k-special) |
