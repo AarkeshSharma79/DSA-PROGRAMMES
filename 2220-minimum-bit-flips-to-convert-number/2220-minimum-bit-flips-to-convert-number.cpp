@@ -1,6 +1,16 @@
 class Solution {
 public:
     int minBitFlips(int start, int goal) {
-        return __builtin_popcount(start ^ goal);
+        int x = start ^ goal;
+        int cnt = 0;
+
+        while (x > 0) {
+            if (x & 1) {
+                cnt++;
+            }
+            x = x >> 1;
+        }
+
+        return cnt;
     }
 };
