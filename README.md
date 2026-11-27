@@ -410,6 +410,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2206-divide-array-into-equal-pairs) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AarkeshSharma79/DSA-PROGRAMMES/tree/master/3370-smallest-number-with-all-set-bits) |
